@@ -2,6 +2,8 @@
 
 
 
+
+
 #2. Print the NUMPY version and the configuration.
 
 
