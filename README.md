@@ -16,6 +16,8 @@ For instance, in the first few lines of `main.py`, you see:
 #1. Import the NUMPY package under the name np.
 
 #2. Print the NUMPY version and the configuration.
+
+
 ```
 
 You will write the codes as instructed:
